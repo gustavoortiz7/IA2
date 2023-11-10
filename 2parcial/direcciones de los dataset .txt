@@ -10,3 +10,6 @@ https://drive.google.com/drive/folders/11SC0iUApX-g1jKEpGJYcuWLUG4i9d3lo?usp=sha
 https://drive.google.com/drive/folders/1bKl77MTghlAnXWdDbW2CP1llfHZMKiAc?usp=sharing
  estan en dos partes por motivos de que colob ya no me deja utilizar la gpu 
  
+
+la direccion de github 
+https://github.com/gustavoortiz7/IA2/tree/main/2parcial
