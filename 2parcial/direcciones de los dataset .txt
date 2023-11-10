@@ -1,0 +1,12 @@
+direcciones de los dataset 
+1 para unet
+https://drive.google.com/drive/folders/1015Qnx32cWfXLZSpAcswQ-G5E8GBNN8V?usp=drive_link
+
+https://drive.google.com/drive/folders/1B8uLhG5hzfXO_Y-3ci91B3W_BmihTa0C?usp=sharing
+
+2 para yolo
+https://drive.google.com/drive/folders/11SC0iUApX-g1jKEpGJYcuWLUG4i9d3lo?usp=sharing
+
+https://drive.google.com/drive/folders/1bKl77MTghlAnXWdDbW2CP1llfHZMKiAc?usp=sharing
+ estan en dos partes por motivos de que colob ya no me deja utilizar la gpu 
+ 
