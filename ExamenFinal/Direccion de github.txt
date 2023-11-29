@@ -1,0 +1,2 @@
+Direccion de github
+https://github.com/gustavoortiz7/IA2/tree/main/ExamenFinal
